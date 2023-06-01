@@ -1,4 +1,3 @@
-# CS641A---Modern-Cryptology
 # CS641A-Modern Cryptology
 
 This GitHub repository contains the solutions for the five assignments completed during the Spring 2023 semester for the CS641A-Modern Cryptology course.
